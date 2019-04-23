@@ -1,2 +1,2 @@
 # SIMPLEXIT
-HTML Website with (HTML5) responsive layout 
+HTML Website with (HTML5, CSS3) responsive layout 
